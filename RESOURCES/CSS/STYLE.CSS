@@ -1,17 +1,10 @@
 /* -------------------- VARIABLES */
 /* -------------------- GLOBAL DEFAULTS */
-/* -------------------- HEADINGS AND TYPE */
-/* -------------------- LAYOUTS */
-/* -------------------- HEADER */
-/* -------------------- NAVIGATION */
-/* -------------------- FOOTER */
-/* -------------------- MODULES */
-
-
 body {
-background-color: salmon;
-
-}
+    background-color: salmon;
+    }
+    
+/* -------------------- HEADINGS AND TYPE */
 
 h1 {
     color: orange
@@ -31,5 +24,14 @@ h4 {
 h5 {
     color: orange;
 }
+
 p {
     color: rgb(189, 7, 67);
+}
+
+
+/* -------------------- LAYOUTS */
+/* -------------------- HEADER */
+/* -------------------- NAVIGATION */
+/* -------------------- FOOTER */
+/* -------------------- MODULES */
