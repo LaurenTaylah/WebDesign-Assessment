@@ -1,3 +1,13 @@
+/* -------------------- VARIABLES */
+/* -------------------- GLOBAL DEFAULTS */
+/* -------------------- HEADINGS AND TYPE */
+/* -------------------- LAYOUTS */
+/* -------------------- HEADER */
+/* -------------------- NAVIGATION */
+/* -------------------- FOOTER */
+/* -------------------- MODULES */
+
+
 body {
 background-color: salmon;
 
@@ -23,4 +33,3 @@ h5 {
 }
 p {
     color: rgb(189, 7, 67);
-
