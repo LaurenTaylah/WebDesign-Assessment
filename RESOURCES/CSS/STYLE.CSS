@@ -1,7 +1,7 @@
 /* -------------------- VARIABLES */
 /* -------------------- GLOBAL DEFAULTS */
 body {
-    background-color: rgb(14, 151, 185);
+    background-color: rgb(248, 203, 118);
     font-family: 'Open Sans', sans-serif;
     }
 
@@ -59,6 +59,10 @@ p {
 
 
 /* -------------------- HEADER */
+header {
+    background-color: pink;
+}
+
 /* -------------------- NAVIGATION */
 /* -------------------- FOOTER */
 /* -------------------- MODULES */
