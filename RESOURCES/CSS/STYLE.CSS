@@ -1,7 +1,7 @@
 /* -------------------- VARIABLES */
 /* -------------------- GLOBAL DEFAULTS */
 body {
-    background-color: rgb(248, 203, 118);
+    background-color: #1B192F;
     font-family: 'Open Sans', sans-serif;
     }
 
@@ -19,29 +19,11 @@ h5 {
 font-family: 'Abril Fatface', cursive;
 font-size: 32px;
 line-height: 1.4px;
-}
-
-h1 {
-    color: rgb(189, 7, 67)
-}
-h2 {
-    color: rgb(189, 7, 67)
-}
-h3
-{
-    color: rgb(189, 7, 67);
-}
-
-h4 {
-    color: rgb(189, 7, 67);
-}
-
-h5 {
-    color: rgb(189, 7, 67);
+color: #640130;
 }
 
 p {
-    color: black;
+    color: black
 
 }
 
