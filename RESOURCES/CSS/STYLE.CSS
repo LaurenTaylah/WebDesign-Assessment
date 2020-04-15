@@ -1,7 +1,7 @@
 /* -------------------- VARIABLES */
 /* -------------------- GLOBAL DEFAULTS */
 body {
-    background-color: #1B192F;
+    background-color: #5c1917;
     font-family: 'Open Sans', sans-serif;
     }
 
@@ -16,16 +16,22 @@ h2,
 h3,
 h4,
 h5 {
-font-family: 'Abril Fatface', cursive;
+font-family: 'Fira Sans', sans-serif;
 font-size: 32px;
 line-height: 1.4px;
-color: #640130;
+color: #e1817e;
 }
 
 p {
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 16px;
+line-height: 1.4px;
     color: white
 }
 li {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    line-height: 1.4px;
     color: white;
 }
 
