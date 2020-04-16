@@ -1,4 +1,14 @@
 /* -------------------- VARIABLES */
+:root {
+    --main-text-color: #34495e;
+    --strong-text-color: #28313b;
+    --link-color: #ff5b5e;
+    --border-color: #97a4b1;
+    --alternative-bg-color: #084e3f;
+    --alternative-text-color: #e8eef4; 
+}
+
+
 /* -------------------- GLOBAL DEFAULTS */
 body {
     background-color: #5c1917;
@@ -8,6 +18,15 @@ body {
 img {
    max-width: 100%;
 }
+
+
+.news-component-columns {
+    display: grid;
+    grid-template-columns: 1fr; /* only 1 cols for default (mobile)*/
+    grid-gap: 25px;
+}
+
+
 
 
 /* -------------------- HEADINGS AND TYPE */
