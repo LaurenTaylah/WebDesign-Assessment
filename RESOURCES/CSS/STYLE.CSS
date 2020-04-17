@@ -99,8 +99,11 @@ padding-top: 10px;
     display: flex;
     justify-content: space-evenly;
 
+}
 
+.navigation a {
 
+    color: white;
 }
 
 
