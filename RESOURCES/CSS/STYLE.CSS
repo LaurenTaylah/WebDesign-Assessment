@@ -84,6 +84,21 @@ header {
 
 
 /* -------------------- NAVIGATION */
+ 
+.navigation {
+/* postion: sticky;
+top: 0; */
+}
+.navigation .content {
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+
+
+}
+
+
+
 /* -------------------- FOOTER */
 footer {
 
