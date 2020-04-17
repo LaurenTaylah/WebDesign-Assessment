@@ -88,6 +88,9 @@ header {
 .navigation {
 /* postion: sticky;
 top: 0; */
+
+padding-bottom: 10px ;
+padding-top: 10px;
 }
 .navigation .content {
     margin-top: 0;
