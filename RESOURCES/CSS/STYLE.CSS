@@ -68,13 +68,35 @@ li {
 
 
 
-
 /* -------------------- HEADER */
 header {
 
+    text-align: left;
 }
+.header-text {
+
+    /* text-align: right; */
+
+    display: flex;
+    flex-direction: column;
+}
+
 
 
 /* -------------------- NAVIGATION */
 /* -------------------- FOOTER */
+footer {
+
+    padding-top: var(--vertical-spacer);
+    padding-bottom: var(--vertical-spacer);
+    text-align: center;
+    color: white
+    
+
+
+}
+
+
+
+
 /* -------------------- MODULES */
