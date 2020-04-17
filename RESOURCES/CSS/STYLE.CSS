@@ -98,7 +98,9 @@ header {
     flex-direction: column;
 }
 
-
+:link {
+    color: #e1817e;
+}
 
 /* -------------------- NAVIGATION */
  
