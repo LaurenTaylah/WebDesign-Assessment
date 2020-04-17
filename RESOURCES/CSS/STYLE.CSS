@@ -1,11 +1,11 @@
 /* -------------------- VARIABLES */
 :root {
-    --main-text-color: #34495e;
-    --strong-text-color: #28313b;
-    --link-color: #ff5b5e;
-    --border-color: #97a4b1;
-    --alternative-bg-color: #084e3f;
-    --alternative-text-color: #e8eef4; 
+    --main-text-color: #5c1917;
+    --strong-text-color: white;
+    --link-color: white;
+    --border-color: black;
+    --alternative-bg-color: #053547;
+    --alternative-text-color: #000000; 
 }
 
 
