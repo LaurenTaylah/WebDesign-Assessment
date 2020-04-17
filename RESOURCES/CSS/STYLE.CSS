@@ -168,15 +168,37 @@ footer {
   
   /* Facebook */
   .fa-facebook {
-    background: #3B5998;
     color: white;
   }
   
   /* Twitter */
   .fa-twitter {
-    background: #55ACEE;
     color: white;
+
   }
+/* Instagram */
+.fa-instagram {
+    color: white;
+}
+
+/* Spotify */
+.fa-spotify {
+    color: white;
+}
+/* Soundcloud */
+.fa-soundcloud {
+    color: white;
+}
+
+/* Youtube */
+.fa-youtube {
+    color: white;
+}
+
+
+
+
+
 
   .fa {
     padding: 20px;
