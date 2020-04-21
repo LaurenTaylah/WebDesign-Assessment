@@ -60,11 +60,41 @@
 
       <main>
 
-        <div class="centered-image">
-          <img src="resources/images/Rachael-4.jpg" alt="Rachael Ward performing landscape photo"
-    width="650"
-    height="450" />
-    </div>
+    <img class="mySlides" 
+    src="resources/images/Rachael-12.jpg"
+    width="400"
+    height="400">
+
+    <img class="mySlides" src="resources/images/Rachael-19.jpg" 
+    width="400"
+    height="400">
+
+    <img class="mySlides" src="resources/images/Rachael-8.jpg" 
+    width="400"
+    height="400">
+
+    <img class="mySlides" src="resources/images/Rachael-7.jpg" 
+    width="400"
+    height="400">
+
+    
+<script>
+  var myIndex = 0;
+  carousel();
+  function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 3000); // Change image every 3 seconds
+  }
+  </script>
+
+
 
 
 </main>
