@@ -68,23 +68,28 @@ p {
     font-family: 'Roboto Condensed', sans-serif;
 font-size: 16px;
 line-height: 20px;
-    color: white
+    color: white;
+    text-align: center;
+  
 }
 li {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 16px;
     line-height: 20px;
     color: white;
+    text-align: center;
 }
 
 label {
 
   color: white;
+  
 }
 
 a { color: white;
   font-family: 'Roboto Condensed', sans-serif;
 justify-content: space-evenly;
+text-align: center;
 }
 
 /* -------------------- LAYOUTS */
