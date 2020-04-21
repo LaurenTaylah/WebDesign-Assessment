@@ -82,6 +82,11 @@ label {
   color: white;
 }
 
+a { color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+justify-content: space-evenly;
+}
+
 /* -------------------- LAYOUTS */
 
 
@@ -114,7 +119,7 @@ header {
 
 /* -------------------- NAVIGATION */
  
-.navigation {
+.navigation a {
 /* postion: sticky;
 top: 0; */
 
@@ -130,7 +135,7 @@ padding-top: 10px;
 
 }
 
-.navigation a {
+.navigation {
 
     color: white;
 
